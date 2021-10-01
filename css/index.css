@@ -87,14 +87,6 @@ body{
     max-width: 320px;
 }
 
-@media(max-width: 1024px)
-{
-    .services__body{
-        width: 750px;
-    }
-}
-
-
 .column_title {
     font-family: Montserrat;
     font-style: normal;
@@ -157,12 +149,6 @@ body{
     text-align: center;
     letter-spacing: 0.1px;
     color: #737373;
-}
-
-@media (max-width: 1024px){
-    .desinging_columns_body{
-        max-width: 750px;
-    }
 }
 
 .practice__blocks {

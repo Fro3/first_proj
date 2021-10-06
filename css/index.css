@@ -506,6 +506,6 @@ input::placeholder{
     }
 }
 @media(max-width: 321px){
-    page__title{
+    .page__title{
         font-size: 2.8rem;
     }

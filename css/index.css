@@ -505,7 +505,3 @@ input::placeholder{
         font-size: 12px;
     }
 }
-@media(max-width: 321px){
-    .page__title{
-        font-size: 2.8rem;
-    }

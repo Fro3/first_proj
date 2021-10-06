@@ -491,3 +491,8 @@ input::placeholder{
 .footer_soc > *:not(:last-child){
     padding-right: 20px;
 }
+@media (max-width:646px){
+    .footer_soc{
+        margin-top: 10px;
+    }
+}
